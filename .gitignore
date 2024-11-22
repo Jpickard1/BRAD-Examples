@@ -1,6 +1,7 @@
 # Data
 *.pkl
 *.h5ad
+RAG-SCRAPE/databases/tutorialDatabase/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
