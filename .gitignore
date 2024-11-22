@@ -2,6 +2,8 @@
 *.pkl
 *.h5ad
 RAG-SCRAPE/databases/tutorialDatabase/*
+*.bin
+*sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
