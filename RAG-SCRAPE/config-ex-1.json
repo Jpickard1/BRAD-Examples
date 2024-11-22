@@ -6,8 +6,7 @@
         "documentEnrichment": false,
         "rerank": false,
         "similarity": false,
-        "mmr": true,
-    	"cut": false
+        "mmr": true
     },
     "SCRAPE": {
         "add_from_scrape": true,
