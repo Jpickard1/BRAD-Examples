@@ -4,6 +4,7 @@
 RAG-SCRAPE/databases/tutorialDatabase/*
 *.bin
 *sqlite3
+RAG-SCRAPE/databases/tutorialDatabase/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
