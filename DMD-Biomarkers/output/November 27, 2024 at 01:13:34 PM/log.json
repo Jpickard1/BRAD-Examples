@@ -1,0 +1,16 @@
+{
+    "0": {
+        "time": "Wed Nov 27 13:13:41 2024",
+        "elapsed time": 0,
+        "prompt": null,
+        "output": "\nWould you like to use a database with BRAD [Y/N]?Welcome to BRAD! The output from this conversation will be saved to /home/jpic/BRAD-Examples/DMD-Biomarkers/output/November 27, 2024 at 01:13:34 PM/log.json. How can I help?",
+        "continue-module": null,
+        "process": {},
+        "status": {
+            "databases": "{'RAG': None}",
+            "current documents": null,
+            "queue pointer": 0,
+            "queue": []
+        }
+    }
+}

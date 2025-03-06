@@ -143,7 +143,13 @@ def main():
 
     print('..............................')
     print('      Sensors To File         ')
-    
+
+    print('..............................')
+    print('      Summary Report          ')
+    print('Dynamic Mode Decomposition + Observability Energy guided sensor selection were successfully completed')
+    print('The sensor file ranks biomarker sensors according to their contribution to observability based upon the systems output energy')
+    print('Here are the top 30 ranked genes')
+    print(df.head(30))
 
 if __name__ == "__main__":
     main()
