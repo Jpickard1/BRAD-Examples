@@ -14,19 +14,19 @@ To use these examples, you'll need to install the BRAD Python package and set up
 
 ## Available Examples
 
-- **GUI Tutorial**
-  A simple tutorial for how to use BRAD's Graphical User Interface.
+- [**GUI Tutorial**](https://docs.google.com/presentation/d/1Vaw5gDTff1Eqv9XaPq_gW4eBOVmookQsaz_LJaIJoFU/edit?usp=sharing)  
+  A simple tutorial for how to set up and use BRAD's Graphical User Interface.
 
-- **Hello World**  
+- [**Hello World**](https://github.com/Jpickard1/BRAD-Examples/blob/main/Hello-World/Example-0.ipynb)  
   A simple "Hello, World!" example to help you understand the basics of using the BRAD chatbot.
 
-- **Search and Retrieval-Augmented Generation (RAG)**  
+- [**Search and Retrieval-Augmented Generation (RAG)**](https://github.com/Jpickard1/BRAD-Examples/blob/main/RAG-SCRAPE/Example-1.ipynb)  
   Demonstrates how to use BRAD to scrape online data and integrate it into a Retrieval-Augmented Generation pipeline.
 
-- **Using the Scanpy Package with BRAD**  
+- [**Using the Scanpy Package with BRAD**](https://github.com/Jpickard1/BRAD-Examples/blob/main/Scanpy/Example-2.ipynb)  
   Explores how BRAD can streamline workflows involving **Scanpy**, including preprocessing and visualization of single-cell data.
 
-- **Biomarker Selection Pipeline**  
+- [**Biomarker Selection Pipeline**](https://github.com/Jpickard1/BRAD-Examples/blob/main/DMD-Biomarkers/Example-3.ipynb)  
   Illustrates how BRAD can assist in selecting biomarkers from datasets using machine learning and bioinformatics tools.
 
 ---
